@@ -1,0 +1,59 @@
+GoloG v1
+
+Topic
+=======
+Time tracker to track employee break and work time and increase productivity and avoid LOP.
+
+Purpose
+=========
+Problem: Losing track of work hours and getting lose of payment and the end of the month.
+Target audience: Employees who work at companies with requirement for fixed work hours inorder to avoid LOP.
+
+Key Features
+============
+- Functionality to mark log in , logout , take break and come back from break
+- Indication for remaining work time and alert for incompleted target.
+- Calender that shows hours worked on each day with color grading
+- Overall stats and insight about the users productivity
+- Customizable work time and break time
+- Authentication and authorization
+
+Scope
+======
+- Authenticated users can see their own perfomance.
+- Authenticated users can mark their own logs.
+
+Plan
+====
+- Excalidraw - Design link: 
+- Firebase Firestore / Supabase - Database design link: 
+
+Technology Stack
+================
+Typescript
+NextJS
+Firebase
+Tailwind CSS
+
+
+Development Process
+===================
+Iterative development
+Timeboxing
+
+V2 - Future Plans
+=================
+- Observer user can monitor users under their scope.
+
+
+STATUS
+========
+
+FrontEnd
+========
+1 - Dashboard -- completed
+2 - Stats calendar -- completed
+3 - Date history -- pending
+4 - Authentication -- pending
+5 - Toasts and indicators -- pending
+6 - State management -- pending

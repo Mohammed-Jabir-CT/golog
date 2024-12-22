@@ -1,0 +1,21 @@
+.react-calendar__navigation__arrow,
+.react-calendar,
+.react-calendar__navigation__label {
+  border-radius: 0.5rem;
+  border: 1px solid transparent;
+  text-align: center;
+}
+.react-calendar__tile--now {
+  background-color: rgb(255, 251, 190);
+  /* Subtle highlight for today */
+  ;
+}
+
+.react-calendar__tile--active {
+  color: #c4c4ff;
+  background-color: secondary;
+}
+
+.react-calendar__tile--hover {
+  background-color: secondary;
+}

@@ -1,0 +1,1 @@
+A time tracker designed to monitor employee work and break hours, enhancing productivity while reducing the risk of loss of pay (LOP).
